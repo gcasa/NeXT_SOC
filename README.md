@@ -1,2 +1,2 @@
-# NeXT_MiSTER
-This project is an implementation of NeXT HW on the MiSTER FPGA.
+# NeXT_SOC
+This project is an implementation of NeXT HW on an FPGA.
